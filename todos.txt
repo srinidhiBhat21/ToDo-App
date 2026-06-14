@@ -1,2 +1,5 @@
-wash
-master python
+make dishes
+Master Python
+get a car
+buy a painting
+last todo
