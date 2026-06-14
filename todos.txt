@@ -1,4 +1,7 @@
 Master Python
 get a car
-buy a painting
+buy a pan
 last todo
+last time
+Master Java
+
